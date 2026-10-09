@@ -1,0 +1,36 @@
+class AppRoutes {
+  static const String login = "/login";
+  static const String register = "/register";
+  static const String splashscreen = "/splashscreen";
+  static const String forgetpassword = "/forgetpassword";
+  static const String otpcode = "/otpcode";
+  static const String resetpassword = "/resetpassword";
+  static const String mainScreen = '/mainScreen';
+  static const String profileScreen = "/profileScreen";
+  static const String changePassword = "/changePassword";
+  static const String contactAdmin = "/contactAdmin";
+  static const String marquerabsence1 = "/marquerabsence1";
+  static const String marquerabsence2 = "/marquerabsence2";
+  static const String marquerabsence3 = "/marquerabsence3";
+  static const String envoyertest1 = "/envoyertest1";
+  static const String envoyertest2 = "/envoyertest2";
+  static const String envoyertest3 = "/envoyertest3";
+  static const String envoyertest4 = "/envoyertest4";
+  static const String modifierabsence1 = "/modifierabsence1";
+  static const String modifierabsence2 = "/modifierabsence2";
+  static const String modifierabsence3 = "/modifierabsence3";
+  static const String consulterliste1 = "/consulterliste1";
+  static const String consulterliste2 = "/consulterliste2";
+  static const String generateqr = "/generateqr";
+  static const String consulterliste3 = "/consulterliste3";
+  static const String remplacement1 = "/remplacement1";
+  static const String remplacement2 = "/remplacement2";
+  static const String remplecement3 = "/remplacement3";
+  static const String remplecement4 = "/remplacement4";
+  static const String listeetudiant = "/listeetudiant";
+  static const String listeetudiantmodifier = "/listeetudiantmodifier";
+  static const String etudiant = "/etudiant";
+  static const String listeetudiant3 = "/listeetudiant3";
+  static const String notification = "/notification";
+  static const String notificationdetails = "/notificationdetails";
+}

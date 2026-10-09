@@ -1,0 +1,40 @@
+# Environment variables and secrets
+
+.env
+.env.*
+!.env.example
+
+# Firebase configuration and service-account credentials
+
+**/google-services.json
+**/GoogleService-Info.plist
+**/firebase-auth.json
+**/*service-account*.json
+
+# Private keys and signing credentials
+
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+**/*.jks
+**/*.keystore
+**/key.properties
+
+# Dependencies
+
+**/node_modules/
+
+# Flutter and Dart generated files
+
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+
+# IDE and operating system files
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
